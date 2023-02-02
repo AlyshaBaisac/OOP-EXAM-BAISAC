@@ -20,19 +20,19 @@
         }
 
         function getName(){
-            resturn $this -> name;
+            return $this -> name;
         }
 
         function getDescription(){
-            resturn $this -> Descriptione;
+            return $this -> Descriptione;
         }
         
         function getPrice(){
-            resturn $this -> Price;
+            return $this -> Price;
         }
 
         function computeSRP(){
-            resturn $this -> Price * 1.5;
+            return $this -> Price * 1.5;
         }
         
 }
