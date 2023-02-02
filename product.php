@@ -35,9 +35,6 @@
             resturn $this -> Price * 1.5;
         }
         
-  
-
-
 }
   
     
