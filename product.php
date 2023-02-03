@@ -24,15 +24,15 @@
         }
 
         function getDescription(){
-            return $this -> Descriptione;
+            return $this -> description;
         }
         
         function getPrice(){
-            return $this -> Price;
+            return $this -> price;
         }
 
         function computeSRP(){
-            return $this -> Price * 1.5;
+            return $this -> price * 1.5;
         }
         
 }
