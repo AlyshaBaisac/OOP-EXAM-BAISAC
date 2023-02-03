@@ -31,7 +31,7 @@
             return $this -> expirationDate;
         }
         function computeSRP(){
-            return $this -> Price * 2;
+            return $this -> getPrice() * 2;
         }
 
     }

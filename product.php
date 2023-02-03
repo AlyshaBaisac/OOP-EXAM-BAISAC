@@ -24,7 +24,7 @@
         }
 
         function getDescription(){
-            return $this -> descriptione;
+            return $this -> Descriptione;
         }
         
         function getPrice(){
